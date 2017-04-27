@@ -1,0 +1,160 @@
+#img1
+{
+	margin-bottom: 3px;
+	margin-right: 0;
+	padding: 0;
+}
+
+#menu
+{
+	font-family: sans-serif;
+	text-align:left;
+	padding-top: 40px;
+	margin: 0;
+	width:336px;
+	margin-bottom: 10px;
+	t
+}
+
+.buttype
+{
+	font-size: 20px;
+	margin:0 4px;
+}
+
+nav li
+{
+	display: inline;
+	text-align: center;
+}
+
+#meta li:after
+{
+	content: '|';
+	padding:0 1px;
+}
+
+#meta li:last-child:after
+{
+	content: none;
+}
+
+.header
+{
+	background:rgb(69, 64, 86);
+	position: fixed;
+	height: 100px;
+}
+
+
+a
+{
+	text-decoration: none;
+}
+
+nav ul a:hover
+{
+	background-color: black;
+	color: white;
+}
+
+#head1
+{
+	margin-top: 100px;
+}
+
+#img1
+{
+	margin-top: 0px;
+}
+
+#mainpara
+{
+	background: #65667b;
+}
+
+.paramar
+{
+	margin: 0 3;
+}
+
+#paramar1
+{
+	margin-left: 0px;
+}
+
+#img2
+{
+	margin-left: 0px;
+}
+
+#paramar3
+{
+	margin-right: 0px;
+}
+
+#img6
+{
+	margin-left: 0px;
+}
+
+#aipara
+{
+	background: #3ab1f9;
+}
+
+#robopara
+{
+	background: #80a1ce;
+}
+
+#mlpara
+{
+	background: #85d0dd;
+}
+
+
+#lifipara
+{
+	background: #99a0a1;
+}
+
+#row1
+{
+	background: #8e652d;
+	width: 315
+}
+
+#row2
+{
+	background: #b09567;
+	width: 315px;
+}
+
+#row3
+{
+	background: #5c554d;
+	width: 315px;
+}
+
+.lifi
+{
+	margin:0px; 
+}px;
+
+.definitions
+{
+	font-size: 15px;
+}
+
+.para
+{
+	text-align: justify;
+}
+
+.foot
+{
+	background: #252733;
+	height: 100px;
+}
+
